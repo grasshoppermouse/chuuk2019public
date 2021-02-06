@@ -1,3 +1,5 @@
+[![DOI](https://zenodo.org/badge/336431915.svg)](https://zenodo.org/badge/latestdoi/336431915)
+
 # chuuk2019public
 
 Data for Parent-Offspring Conflict and Bargaining Behaviors in Adolescence and Young Adulthood among Chon Chuuk (Chuukese) Micronesians
